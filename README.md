@@ -1,0 +1,2 @@
+# ZSK
+Szkoła
