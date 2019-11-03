@@ -1,0 +1,28 @@
+Baza, szablon, backend
+1. system logowania:
+  - login nie może się powtarzać
+  - status (aktywny, nieaktywny, usunięty, zablokowany)
+  - hasło szyfrowane (MD5, ARGON(najlepiej))
+2. system oparty o sesje
+3. dwa panele:
+  - zwykły janusz (5 kont)
+  - administrator
+4. zabezpieczenie przed wejściem na zabezpieczone strony (wymagające logowania)
+5. zabezpieczenie SQL Injection
+6. projekt bazy danych
+7. dokumentacja
+8. GIT -> systematyczna praca
+9. Responsywna strona www
+10. Bez frameworków
+
+Terminy:
+Szablon www: do końca listopada
+Projekt bazy: do 15 listopada
+System logowania: do ferii
+Projekt: do końca marca
+
+Angielski techniczny w technikum informatycznym
+Strona do nauki angielskiego dla technikum/programistów
+Projekt tak by dodać inny kierunek
+
+Bootstrap + View + Sas
