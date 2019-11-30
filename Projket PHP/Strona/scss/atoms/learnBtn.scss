@@ -1,0 +1,18 @@
+.back{
+  float: left;
+  @media (max-width: 700px){
+    float: none;
+  }
+}
+.AWord{
+  margin: 5px;
+}
+.Delete{
+  margin: 5px;
+  background-color: red;
+  border-radius: 5px;
+  width: 100px;
+  border: 1px solid #ececec;
+  color: white;
+  transition: color 0.3s ease;
+}

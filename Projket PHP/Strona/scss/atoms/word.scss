@@ -1,0 +1,6 @@
+.word{
+  border-top: 1px solid #4277f3;
+}
+.word:nth-last-child(1), .word:nth-last-child(2), .word:nth-last-child(3), .word:nth-last-child(4){
+  border-bottom: 1px solid #4277f3;
+}
