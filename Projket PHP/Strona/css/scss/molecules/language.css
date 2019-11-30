@@ -1,0 +1,39 @@
+#lngMenu button {
+  font-size: 11px;
+  font-weight: bold;
+  background-color: #4277f3;
+  border: 0px;
+  border-top: 1px solid #4250f3;
+  color: #ececec;
+  font-weight: bold;
+  min-height: 35px;
+  min-width: 35px; }
+
+#lngMenu button:hover {
+  color: #fdfdfd; }
+
+#lngMenu button:nth-child(1) {
+  border-top: 0px; }
+
+@media (max-width: 1200px) and (min-width: 700px) {
+  #lngMenu button {
+    font-size: 10px;
+    min-height: 33px;
+    min-width: 33px; } }
+
+@media (max-width: 700px) {
+  #lngMenu button {
+    font-size: 8px;
+    padding: 2px;
+    min-height: 25px;
+    min-width: 25px; } }
+
+#lngMenu {
+  float: right;
+  border: 1px solid #4250f3;
+  border-radius: 6px; }
+
+@media (max-width: 700px) {
+  #lngMenu {
+    float: left;
+    margin: 5px; } }
